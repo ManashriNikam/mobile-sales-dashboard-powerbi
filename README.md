@@ -11,7 +11,7 @@ The dashboard helps in understanding business growth, identifying top-performing
 - Compare regional sales performance
 - Analyze profit margins and customer trends
 
-** Key Dashboard Insights**
+**Key Dashboard Insights**
   
 - Total Revenue & Total Units Sold
 -  Region-wise Sales Distribution
