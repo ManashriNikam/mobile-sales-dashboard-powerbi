@@ -1,3 +1,8 @@
+<img width="854" height="477" alt="Screenshot 2026-02-24 100029" src="https://github.com/user-attachments/assets/80c1fb69-050d-4298-93a4-a22a45ddc755" />
+
+
+
+
 **Project Overview**
 
 This project presents an interactive Mobile Sales Dashboard developed using Power BI to analyze sales performance, revenue trends, product performance, and regional insights.
